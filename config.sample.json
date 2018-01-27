@@ -1,10 +1,15 @@
 {
 	"wikis": {
-		"communitytest": {
+		"relife": {
 			"transport": {
 				"platform": "discord",
-				"id": "123456789",
-				"token": "aosBaAodia-oIA9DAkasd-9jASdlkAdu-7Askanadki-IASd8Asnak"
+		                "url": "http://discordapp.com/api/webhooks/406701497439485952/qscs-WMBDFclkis-DPBkgdI8STRrXeeguXcri4SAAZNLcPyc-_uYNFvmKQw177PGqycX"
+			}
+		},
+		"yakusokunoneverland": {
+			"transport": {
+				"platform": "discord",
+		                "url": "http://discordapp.com/api/webhooks/406701658895286283/rtSeDKC5LOsBlENSp-9SDTNZe9llFK1k2Pdzg8RB7oudF7n5iI1SNSH8AIDRrCY867_E"
 			}
 		}
 	}
